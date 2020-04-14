@@ -1,0 +1,22 @@
+{
+  "name": "botkit_nlu",
+  "version": "1.0.0",
+  "description": "This plugin allows you to connect Botkit with the NLU of your choice instead of a regex solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "botkit",
+    "nlu",
+    "bot",
+    "bots"
+  ],
+  "author": "Julien Gabryelewicz <juien.gabryelewicz2@gmail.com>",
+  "license": "",
+  "homepage": "",
+  "dependencies": {
+    "debug": "^2.6.8",
+    "axios": "^0.19.1"
+  }
+}
